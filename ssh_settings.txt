@@ -1,0 +1,2 @@
+Generate SSH key for secure remote access
+ssh-keygen -t rsa -C "devopmike@thecompany.com"
